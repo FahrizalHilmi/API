@@ -53,7 +53,6 @@
                 <suiteXmlFiles>
                     <suiteXmlFile>src/test/Resources/Test-S/echo.xml</suiteXmlFile> <!-- Menentukan file TestNG XML -->
                 </suiteXmlFiles>
-                    <threadCount>3</threadCount>
                     <reportsDirectory>target/test-output</reportsDirectory>
                 </configuration>
             </plugin>
