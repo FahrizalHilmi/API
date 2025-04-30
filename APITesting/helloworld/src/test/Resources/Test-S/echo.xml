@@ -1,0 +1,8 @@
+<suite name="rizalLagiTest">
+    <test name="APITest">
+        <classes>
+            <class name="tests.HelloWorldAPITest">
+            </class>
+        </classes>
+    </test>
+</suite>
